@@ -1,3 +1,9 @@
 # Instagram-clone-webpage
-This is a frontend project ( Instagram clone webpage ) .
-you guys can upload your own images in this project as i didn't upload any image here.
+A fully responsive frontend Instagram clone.
+
+# Technologies
+*html5   *css3   *typescript   
+
+
+# Screenshot
+![Screenshot 2022-12-31 235336](https://user-images.githubusercontent.com/119717645/210152507-c9c41fe0-fac2-454e-8886-a562fad995ae.jpg)
