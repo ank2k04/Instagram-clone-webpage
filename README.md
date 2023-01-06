@@ -2,7 +2,7 @@
 A fully responsive frontend Instagram clone.
 
 # Technologies
-*html5   *css3   *typescript   
+*html5   *css3
 
 
 # Screenshot
