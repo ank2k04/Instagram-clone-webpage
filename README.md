@@ -1,5 +1,5 @@
 # Instagram-clone-webpage
-A fully responsive frontend Instagram clone.
+A non-responsive frontend Instagram clone.
 
 # Technologies
 *html5   *css3
